@@ -1,5 +1,4 @@
-﻿using System;
-					
+﻿using System;					
 public class Potentiation
 {
     public static void Main()
